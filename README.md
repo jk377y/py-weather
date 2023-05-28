@@ -18,6 +18,13 @@ This is a very simple weather application that uses the OpenWeather API to retri
  - The module supports pretty printing of JSON data for better readability using the json.dumps() function with the indent parameter.<br>
 <br>
 
+### ***Some notes about the Python f-strings:***<br>
+ - The f-string is basically the Javascript equivalent of a template literal (created with backticks) which allows the embedding of expressions within strings.<br>
+ - Notice the first example below is a standard string assigned to a variable, but the second example allows for the use of {city} and {api_key} to be embedded.<br>
+ - `api_key = "d01afd2806e508d282da4f840dd4696a"`<br>
+ - `base_url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"`<br>
+<br>
+
 ![screenshot2](images/screenshot2.JPG)
 <br>
 
