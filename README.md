@@ -16,7 +16,6 @@ This is a very simple weather application that uses the OpenWeather API to retri
  - json.dumps() is used to convert a Python object into a JSON string representation.<br>
  - json.loads() is used to parse a JSON string and convert it back into a Python object.<br>
  - The module supports pretty printing of JSON data for better readability using the json.dumps() function with the indent parameter.<br>
-<br>
 
 ### ***Some notes about the Python f-strings:***<br>
  - The f-string is basically the Javascript equivalent of a template literal (created with backticks) which allows the embedding of expressions within strings.<br>
