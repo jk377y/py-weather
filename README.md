@@ -24,7 +24,10 @@ This is a very simple weather application that uses the OpenWeather API to retri
  - `base_url = f"http://api.openweathermap.org/data/2.5/weather?q=`{city}`&appid=`{api_key}`"`<br>
 <br>
 
-![screenshot2](images/screenshot2.JPG)
+<img src="images/screenshot3.JPG" alt="screenshot3" width="700" />
+<br>
+
+<img src="images/screenshot2.JPG" alt="screenshot2" width="700" />
 <br>
 
 ## *Installation & Usage*
@@ -34,7 +37,8 @@ When prompted:<br>
  - Type the name of the city you wish to query the weather for.<br>
 <br>
 
-![screenshot](images/screenshot.JPG)
+<img src="images/screenshot.JPG" alt="screenshot" width="350" />
+<br>
 <br>
 <br>
 
